@@ -14,7 +14,8 @@
   display: flex;
   flex-direction: column;
   height: 12rem;
-  background-color: #06373c;
+  /* background-color: #06373c; */
+  background: url("../../air-494020_1280.jpg");
   color: white;
   letter-spacing: 1px;
   text-transform: capitalize;
@@ -54,6 +55,7 @@ input[type="text"] {
   padding: 2rem 2rem;
   justify-items: center;
   align-content: center;
-  background-color: #06373c;
+  /* background-color: #06373c; */
+  background: url("../../air-494020_1280.jpg");
   min-height: calc(100vh - 20vh);
 }
